@@ -2,9 +2,11 @@
 
 This module provide you a option for hide your devices display cutout(notch).
 
-ONLY Android P & Q can install this module! (Q aren't tested, O and below will not work)
+Support Android P(ie), Q(uince Tart) and R(ed Velvet Cake).
 
-Tested on OnePlus 6 H2OS Open-Beta 25.
+Android O and below will not work
+
+Tested on OnePlus 8T.
 
 ### Usage
 
